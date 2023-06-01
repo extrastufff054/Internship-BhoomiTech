@@ -1,0 +1,9 @@
+Research and document :
+plugins -> sandcat, manx, etc
+Manual attacks has to be done.
+Mock plugin-> based on AI
+Metasploit integration in caldera
+How does caldera work? -> Red Teaming 
+				Blue teaming : Incident response, Autonomous incident response
+
+OpenVPN

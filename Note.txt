@@ -1,0 +1,24 @@
+Team 1: Caldera
+Sarang
+Arunima
+Vineet
+
+
+research
+
+tool selection -> walkthrough
+
+Resources, steps to solve issues during installation and configuration
+
+Working POC -> steps followed to perform/generate the attack -> create a video
+
+Develop a breach and attack simulation framework
+1) Atomic Red team 
+2) CLADERA
+3) Social Engineering Toolkit
+
+Cent-OS, Kali, or any other flavour of ubuntu -> reason behind use of the flavour
+
+Installation, configuration and execution
+	Code, comment and screenshot-> along with challege and solution
+

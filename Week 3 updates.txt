@@ -1,0 +1,2 @@
+Min. 3 attacks->
+vulnerabilities that it exploits, what is it about, what each command uses, and their respective documentation with screenshots

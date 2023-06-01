@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formatted Output</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <style>
+        body {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Formatted Output</h1>
+        <pre id="formatted-data"></pre>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $.getJSON("input.json", function(data) {
+                var formattedData = JSON.stringify(data, null, 4);
+                $("#formatted-data").text(formattedData);
+            });
+        });
+    </script>
+</body>
+</html>
