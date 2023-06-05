@@ -1,0 +1,8 @@
+techniques and tactics
+Reverse shell and privilege escalation
+
+Reconnaissance -> Active scanning, Gather victim host information
+Resource Development -> Drive-by compromise
+Initial Access -> User Execution
+Persistence -> Boot or logon Initialization scripts
+Privilege escalation ->
